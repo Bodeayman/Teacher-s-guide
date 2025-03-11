@@ -1,4 +1,4 @@
-######################################################################################################################################
+# Overview
 This is a simple project we made with python that will benefit instructors from a lot of universites to record their student data whether it
 was survey or grades or the attendance of the student (The project was done by):
 
@@ -6,11 +6,9 @@ was survey or grades or the attendance of the student (The project was done by):
 2-The attendance function was done by Abdullah Ayman (SWD Student in ZC)
 
 This is the initial Version 1.0v
-##################################################User Manuel#########################################################################
 
+# User Manuel
 this app will help the instructor to record the attendance and the grades
-
-
 
 The first function (“Grades”)
 And it contains (“Add grades – inform a grade -show all grades – delete student grade – update grade -back to the main menu) Buttons
